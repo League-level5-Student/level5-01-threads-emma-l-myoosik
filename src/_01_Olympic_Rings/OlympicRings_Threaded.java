@@ -20,6 +20,7 @@ public class OlympicRings_Threaded extends Thread {
 			robo.setY(400);
 			break;
 		case 2:
+			robo.setPenColor(Color.red);
 			robo.setX(240 * (v + 1));
 			robo.setY(400);
 			break;
